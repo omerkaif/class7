@@ -1,0 +1,47 @@
+.header{
+    height: 100px;
+    background-color: aquamarine;
+    border: 2px solid green;
+
+}
+.wrapper{
+    overflow: hidden;
+
+}
+.blog{
+    height: 100px;
+    background-color: blue;
+    width: 50%;
+    border: 1px solid green;
+    box-sizing: border-box;
+    float: left;
+
+}
+.contact{
+    height: 100px;
+    background-color: teal;
+    width: 50%;
+    box-sizing: border-box;
+    float: right;
+
+}
+.box{
+    height: 100px;
+    width: 33.33%;
+    float: left;
+}
+.pen{
+    background-color: skyblue;
+
+}
+.pencil{
+    background-color: blueviolet;
+} 
+.eraser{
+    
+    background-color: aquamarine;
+}
+.footer{
+    height: 100px;
+    background-color: palevioletred;
+}
